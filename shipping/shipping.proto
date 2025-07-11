@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option go_package = "github.com/pqt2p1/microservice-proto/golang/shipping";
+
+package shipping;
+
+message CreateShippingRequest {
+  int64 user_id = 1;
+  int64 order_id = 2;
+}
+
+message CreateShippingResponse {
+  int64 shipping_id = 1;
+}
+
+service Shipping {
+  rpc Create(CreateShippingRequest) returns (CreateShippingResponse);
+}
