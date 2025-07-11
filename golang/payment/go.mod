@@ -1,4 +1,4 @@
-module github.com/pqt2p1/microservice-proto/golang/payment
+module github.com/pqt2p1/microservices-proto/golang/payment
 
 go 1.24.4
 

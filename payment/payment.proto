@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/pqt2p1/microservice-proto/golang/payment";
+option go_package = "github.com/pqt2p1/microservices-proto/golang/payment";
 
 package shipping;
 

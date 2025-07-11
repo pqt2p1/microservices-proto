@@ -1,4 +1,4 @@
-module github.com/pqt2p1/microservice-proto/golang/shipping
+module github.com/pqt2p1/microservices-proto/golang/shipping
 
 go 1.24.4
 

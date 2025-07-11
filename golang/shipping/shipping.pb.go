@@ -129,7 +129,7 @@ const file_shipping_shipping_proto_rawDesc = "" +
 	"\vshipping_id\x18\x01 \x01(\x03R\n" +
 	"shippingId2W\n" +
 	"\bShipping\x12K\n" +
-	"\x06Create\x12\x1f.shipping.CreateShippingRequest\x1a .shipping.CreateShippingResponseB6Z4github.com/pqt2p1/microservice-proto/golang/shippingb\x06proto3"
+	"\x06Create\x12\x1f.shipping.CreateShippingRequest\x1a .shipping.CreateShippingResponseB7Z5github.com/pqt2p1/microservices-proto/golang/shippingb\x06proto3"
 
 var (
 	file_shipping_shipping_proto_rawDescOnce sync.Once

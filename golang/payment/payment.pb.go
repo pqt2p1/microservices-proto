@@ -139,7 +139,7 @@ const file_payment_payment_proto_rawDesc = "" +
 	"\n" +
 	"payment_id\x18\x01 \x01(\x03R\tpaymentId2T\n" +
 	"\aPayment\x12I\n" +
-	"\x06Create\x12\x1e.shipping.CreatePaymentRequest\x1a\x1f.shipping.CreatePaymentResponseB5Z3github.com/pqt2p1/microservice-proto/golang/paymentb\x06proto3"
+	"\x06Create\x12\x1e.shipping.CreatePaymentRequest\x1a\x1f.shipping.CreatePaymentResponseB6Z4github.com/pqt2p1/microservices-proto/golang/paymentb\x06proto3"
 
 var (
 	file_payment_payment_proto_rawDescOnce sync.Once
